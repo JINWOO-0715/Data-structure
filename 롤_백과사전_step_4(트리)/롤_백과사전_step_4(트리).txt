@@ -1,0 +1,10 @@
+주어진 LOLDic.txt 파일의 내용을 데이터로 하여 다음 프로그램을 작성하라.
+
+SortByName_SL() 의 수행시간을 측정하라.
+LOLDic의 내부 자료구조를 이진 탐색 트리 구조로 변경하라. 
+
+SearchByName_BT()를 구현하고, 그 시간을 측정하라.
+Insert_BT() 를 구현하고, 그 시간을 측정하라.
+Delete_BT()를 구현하고, 그 시간을 측정하라.
+PrintAll_BT()을 구현하고, 그 시간을 측정하라.
+SortByName_BT()를 구현하고, 그 시간을 측정하라.

@@ -1,0 +1,11 @@
+배열에 저장된 데이터를 이중 환형 연결리스트 구조로 
+바꾸어 저장하는 함수 Array2LinkedList()를 구현하라.
+배열 대신 이중 환형 연결리스트를 사용하여 스타딕의 기능들을 구현하라.
+
+-Search_DL
+-Insert_DL : 정렬된 순서를 유지하면서 삽입한다.
+-Delete_DL
+-DeleteAll_DL
+-PrintAll_DL
+-FindMaxHp_DL
+-SortByHp_DL
